@@ -1,7 +1,7 @@
 # 🕹️ Godot Sample Game
 
 
-Prosty projekt stworzony w [Godot Engine](https://godotengine.org/) – zawiera podstawowy gameplay z graczem, przeciwnikami oraz HUD-em. Idealny jako baza do dalszych eksperymentów lub nauki.
+Prosty projekt stworzony w [Godot Engine](https://godotengine.org/) – zawiera podstawowy gameplay z graczem, przeciwnikami oraz HUD-em.
 
 Jest to odwzorowana wersja [tutorialu](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html) jako jedno z zadań z kursu Projektowanie i Programowanie Gier na 6 semestrze studiów na PWR. 
 
